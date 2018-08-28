@@ -1,0 +1,11 @@
+Catalogo web  Puzzle T- shirts (estetica de la pagina anime japones)
+El usuario pueda armar su propia remera como si fuera un rompecabezas.
+Las piezas de este rompecabezas seran:
+- muestrario de colores (opcion x3 )
+- muestrario de tipografias (opcion x3)
+- Tamaño y color de las tipografias (opcion x3)
+- muestrario de modelos (opcion x3)
+- muestrario de frases inspiradoras (x3)
+- Talles
+- Tabla de medidas por talle
+- Vista del prototipo final
